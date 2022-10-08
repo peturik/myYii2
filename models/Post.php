@@ -44,6 +44,7 @@ class Post extends \yii\db\ActiveRecord
             'title' => 'Title',
             'article' => 'Article',
             'author' => 'Author',
+            'created' => 'Created',
         ];
     }
 }
